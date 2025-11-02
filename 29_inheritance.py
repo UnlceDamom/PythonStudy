@@ -1,4 +1,4 @@
-class employee:
+class Employee:
     def __init__(self, name, id):
         self.name = name
         self.id = id
@@ -7,7 +7,7 @@ class employee:
         print(f'姓名：{self.name} , 工号{self.id}')
 
 
-class FullTimeEmployee(employee):
+class FullTimeEmployee(Employee):
     def __init__(self, name, id, monthly_salary):
         super().__init__(name, id)
         self.monthly_salary = monthly_salary
@@ -16,7 +16,7 @@ class FullTimeEmployee(employee):
         return self.monthly_salary
 
 
-class PartTimeEmployee(employee):
+class PartTimeEmployee(Employee):
     def __init__(self, name, id, daily_salary, work_days):
         super().__init__(name, id)
         self.daily_salary = daily_salary
