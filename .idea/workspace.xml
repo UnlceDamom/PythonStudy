@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4200ec63-b507-4aa9-85c1-a39193f7438d" name="更改" comment="commit first">
-      <change afterPath="$PROJECT_DIR$/qw_auto_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qw_auto_email_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qw_dashscope.py" afterDir="false" />
+    <list default="true" id="4200ec63-b507-4aa9-85c1-a39193f7438d" name="更改" comment="Second Week Complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/29_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/29_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qw_auto_email_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/qw_auto_email_v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,8 +411,17 @@
       <updated>1762004053903</updated>
       <workItem from="1762004055610" duration="242000" />
       <workItem from="1762004317061" duration="225000" />
-      <workItem from="1762004554889" duration="10727000" />
+      <workItem from="1762004554889" duration="12804000" />
     </task>
+    <task id="LOCAL-00001" summary="Second Week Complete">
+      <option name="closed" value="true" />
+      <created>1762055587004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762055587004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,6 +455,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Week Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Week Complete" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$class_demo.coverage" NAME="class_demo 覆盖结果" MODIFIED="1761315675195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$get_weather_optimize.coverage" NAME="get_weather_optimize 覆盖结果" MODIFIED="1761408793599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -464,7 +474,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$multi_talk.coverage" NAME="multi_talk 覆盖结果" MODIFIED="1761465688562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$qw_stream_out_put.coverage" NAME="qw_stream_out_put 覆盖结果" MODIFIED="1761469011254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$qw_function_calling.coverage" NAME="qw_function_calling 覆盖结果" MODIFIED="1761489566474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$qw_auto_email_v2.coverage" NAME="qw_auto_email_v2 覆盖结果" MODIFIED="1762055477813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$qw_auto_email_v2.coverage" NAME="qw_auto_email_v2 覆盖结果" MODIFIED="1762057605384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$example_open_ai.coverage" NAME="example_open_ai 覆盖结果" MODIFIED="1761387341140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$qw_deep_think.coverage" NAME="qw_deep_think 覆盖结果" MODIFIED="1761467355075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$async_qianwen.coverage" NAME="async_qianwen 覆盖结果" MODIFIED="1761464582699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
